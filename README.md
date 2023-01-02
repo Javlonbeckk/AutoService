@@ -7,10 +7,15 @@ pictures, which are in folder "graphs"
 
 
 To run docker-compose use commands:
+
 $ docker-machine stop 
+
 $ start_docker
+
 $ docker-compose up
+
 $ docker-machine ip
+
 Open your web-brower and enter ip and port 8080.
 
 
