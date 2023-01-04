@@ -6,3 +6,4 @@ gino
 Flask
 Jinja2
 SQLAlchemy
+psycopg2
