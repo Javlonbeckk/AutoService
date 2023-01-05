@@ -18,7 +18,7 @@ pictures, which are in folder "graphs"
 
 
 
-Ton install Docker use https://golb.hplar.ch/2019/01/docker-on-windows10-home-scratch.html
+Ton install Docker use https://golb.hplar.ch/2019/01/docker-on-windows10-home-scratch.html(but it is not mandatory)
 
 To run docker-compose run terminal(or command prompt) in folder of project, then use commands:
 
