@@ -15,6 +15,8 @@ If you do not have, create database, superuser, and set password
 
 Rename file "dotenv" to ".env" and enter all your data(name of database, pguser, pgpassword, ip, token of bot, id of admin in telegram)
 
+To get id of user in Telegram you can use https://t.me/ShowJsonBot
+
 If you are running bot on your own machine, then ip: localhost 
 
 Install all packages from "requirements.txt"
