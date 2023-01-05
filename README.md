@@ -1,5 +1,5 @@
 # AutoService
-Download PostgreSQL 14 or higher and install PGAdmin, link -  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads(PGAdmin and PostgreSQL are both in one file)
+Download PostgreSQL 14 or higher and install PGAdmin, link -  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads (PGAdmin and PostgreSQL are both in one file)
 
 Install PostgreSQL + PGAdmin 4 on your machine(Stack Builder is not necessary)
 
