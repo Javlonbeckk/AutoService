@@ -1,11 +1,15 @@
 # AutoService
-Download PostgreSQL 14 or higher and install PGAdmin(you can download them from https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-Install PostgreSQL + PGAdmin on your machine
-Create database, superuser, and set password
+Download PostgreSQL 14 or higher and install PGAdmin, link -  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads(PGAdmin and PostgreSQL are both in one file)
+
+Install PostgreSQL + PGAdmin 4 on your machine(Stack Builder is not necessary)
+
+If you do not have, create database, superuser, and set password
 
 
 Rename file "dotenv" to ".env" and enter all your data(database, token, pguser, password, ip)
-If you are running bot on your local machine, then ip: localhost 
+
+If you are running bot on your own machine, then ip: localhost 
+
 Install all packages from "requirements.txt"
 
 
