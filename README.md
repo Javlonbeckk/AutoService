@@ -17,7 +17,10 @@ You can see structure of database and list of all servises in
 pictures, which are in folder "graphs"
 
 
-To run docker-compose use commands:
+
+Ton install Docker use https://golb.hplar.ch/2019/01/docker-on-windows10-home-scratch.html
+
+To run docker-compose run terminal(or command prompt) in folder of project, then use commands:
 
 $ docker-machine stop 
 
