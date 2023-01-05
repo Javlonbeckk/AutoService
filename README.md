@@ -27,7 +27,7 @@ pictures, which are in folder "graphs"
 
 
 
-#DOCKER(but it is not mandatory)
+#DOCKER COMPOSE(but it is not mandatory)
 
 To install Docker use https://golb.hplar.ch/2019/01/docker-on-windows10-home-scratch.html
 
