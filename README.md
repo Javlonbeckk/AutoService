@@ -13,7 +13,7 @@ If you do not have, create database, superuser, and set password
 
 #TO-DO LIST INSIDE PROJECT
 
-Rename file "dotenv" to ".env" and enter all your data(database, token, pguser, password, ip)
+Rename file "dotenv" to ".env" and enter all your data(database, token, pguser, password, ip, id of admin in telegram)
 
 If you are running bot on your own machine, then ip: localhost 
 
